@@ -55,7 +55,7 @@ python main.py
 3. **Exit the program** when calculations are complete.
 
 ## Contributors
-- **Bhavesh Mishra** *(Lead Developer)*
+- **Ashutosh Pant** *(Lead Developer)*
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to improve the project, feel free to fork the repository and submit a pull request.
